@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-
-This is a temporary script file.
 Made By :- SANKET ASHOK NIGHOT
 Email Id:- sanketnighot25@gmail.com
 
@@ -263,7 +261,7 @@ print(''' ~~ Instructions To Play "THE INTERACTIVE NUMBER GUESSING GAME" ~~
           $  Appreciate the work if you like.
           $  👍  ALl The Best ... Happy Playing ... Happy Coding ... 😀😀😀
           
-          NOTE : The Game willstart Soon ...
+          NOTE : The Game will start Soon ...
 
 ''')
 print("")
